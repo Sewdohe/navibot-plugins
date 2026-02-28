@@ -5,7 +5,7 @@
             "name": "Trivia Game",
             "description": "Multiple-choice trivia pulled live from opentdb.com, with win tracking and a server leaderboard. Optional economy coin rewards.",
             "author": "sewdohe",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "tags": [
                 "fun",
                 "games"

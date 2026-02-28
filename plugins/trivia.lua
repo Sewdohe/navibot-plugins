@@ -236,6 +236,7 @@
           fields = {
               { name = "Difficulty", value = q.diff,         inline = true },
               { name = "Time Limit", value = timeout .. "s", inline = true },
+              { name = "Instructions:", value = "Respond with ONLY the letter of your answer!"}
           },
       })
 
