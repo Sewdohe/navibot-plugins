@@ -315,11 +315,12 @@
               color = 0x57F287,
           })
 
-          -- Optional economy integration — does nothing if economy plugin isn't loaded
           navi.emit("economy:add_coins", {
               user_id  = tostring(msg.author_id),
               guild_id = msg.guild_id,
               amount   = reward,
           })
+      else
+          navi.say(msg.channel_id, string.format("❌ Wrong, <@%s>! Keep trying.", tostring(msg.author_id)))
       end
   end)
