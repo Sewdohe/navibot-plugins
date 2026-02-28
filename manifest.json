@@ -11,6 +11,51 @@
                 "games"
             ],
             "url": "https://raw.githubusercontent.com/Sewdohe/navibot-plugins/main/plugins/trivia.lua"
+        },
+        {
+            "id": "starboard",
+            "name": "Starboard Messages",
+            "description": "Configurable Starboard plugin to memoralize community-selected messages.",
+            "author": "sewdohe",
+            "version": "1.0.0",
+            "tags": [
+                "fun"
+            ],
+            "url": "https://raw.githubusercontent.com/Sewdohe/navibot-plugins/main/plugins/starboard.lua"
+        },
+        {
+            "id": "polls",
+            "name": "Polls",
+            "description": "Allows creating timed polls.",
+            "author": "sewdohe",
+            "version": "1.0.0",
+            "tags": [
+                "fun"
+            ],
+            "url": "https://raw.githubusercontent.com/Sewdohe/navibot-plugins/main/plugins/polls.lua"
+        },
+        {
+            "id": "apod",
+            "name": "Astronomical Picture of the Day",
+            "description": "Simple plugin that fetches Nasa's APOD and displays it in an embed, along with it's description.",
+            "author": "sewdohe",
+            "version": "1.0.0",
+            "tags": [
+                "fun"
+            ],
+            "url": "https://raw.githubusercontent.com/Sewdohe/navibot-plugins/main/plugins/apod.lua"
+        },
+        {
+            "id": "tickets",
+            "name": "Support Tickets",
+            "description": "Enables opening and closing of support tickets from a configured embed. Tickets private between staff and opener",
+            "author": "sewdohe",
+            "version": "1.0.0",
+            "tags": [
+                "moderation",
+                "admin"
+            ],
+            "url": "https://raw.githubusercontent.com/Sewdohe/navibot-plugins/main/plugins/tickets.lua"
         }
     ]
 }
