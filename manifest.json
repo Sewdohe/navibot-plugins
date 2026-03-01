@@ -116,6 +116,42 @@
                 "admin"
             ],
             "url": "https://raw.githubusercontent.com/Sewdohe/navibot-plugins/main/plugins/bot_status.lua"
+        },
+        {
+            "id": "ai_chat",
+            "name": "NaviBot Chat",
+            "description": "An AI chatbot that responds directly to messages rather than slash commands, with the option to use a slash command, uses Groq API",
+            "author": "eeebsiekat",
+            "version": "1.0.0",
+            "tags": [
+                "ai",
+                "chat"
+            ],
+            "url": "https://raw.githubusercontent.com/EeebsieKat/navibot-plugins/main/plugins/navibot_chat.lua"
+        },
+        {
+            "id": "dog_pic",
+            "name": "NaviBot Dog",
+            "description": "A slash command that sends a picture of a dog from a list",
+            "author": "eeebsiekat",
+            "version": "1.0.0",
+            "tags": [
+                "silly",
+                "dog"
+            ],
+            "url": "https://raw.githubusercontent.com/EeebsieKat/navibot-plugins/main/plugins/navibot_dog.lua"
+        },
+        {
+            "id": "dice_roll",
+            "name": "NaviBot Roll",
+            "description": "A slash command that rolls a die with a custom number of sides",
+            "author": "eeebsiekat",
+            "version": "1.0.0",
+            "tags": [
+                "dice",
+                "numbers"
+            ],
+            "url": "https://raw.githubusercontent.com/EeebsieKat/navibot-plugins/main/plugins/navibot_roll.lua"
         }
     ]
 }
