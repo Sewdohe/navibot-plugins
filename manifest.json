@@ -1,6 +1,18 @@
 {
     "plugins": [
         {
+            "id": "automod",
+            "name": "Automod",
+            "description": "Auto-moderation actions for Navibot.",
+            "author": "sewdohe",
+            "version": "1.0.0",
+            "tags": [
+                "admin",
+                "moderation"
+            ],
+            "url": "https://raw.githubusercontent.com/Sewdohe/navibot-plugins/main/plugins/automod.lua"
+        },
+        {
             "id": "trivia",
             "name": "Trivia Game",
             "description": "Multiple-choice trivia pulled live from opentdb.com, with win tracking and a server leaderboard. Optional economy coin rewards.",
