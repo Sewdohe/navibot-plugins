@@ -1,6 +1,18 @@
 {
     "plugins": [
         {
+            "id": "warns",
+            "name": "Warning System",
+            "description": "Configurable warnings-system for Navibot. Pairs well with automod.",
+            "author": "sewdohe",
+            "version": "1.0.0",
+            "tags": [
+                "admin",
+                "moderation"
+            ],
+            "url": "https://raw.githubusercontent.com/Sewdohe/navibot-plugins/main/plugins/warns.lua"
+        },
+        {
             "id": "automod",
             "name": "Automod",
             "description": "Auto-moderation actions for Navibot.",
